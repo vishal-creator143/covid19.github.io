@@ -13,7 +13,7 @@
 	<div>
 		<h1 class="text-center text-uppercase" style="color: red;border-bottom: 2px dashed black;float: right;">COVID-19 <span style="color: green">LIVE UPDATES OF THE INDIA</span></h1>
 
-		<a href="covid19.php"><button class="btn btn-primary mt-2" style="float: left;"> Back</button></a>
+		<a href="index.php"><button class="btn btn-primary mt-2" style="float: left;"> Back</button></a>
 	</div>
 
 	<div class="table-responsive">
